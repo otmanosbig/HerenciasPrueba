@@ -16,7 +16,7 @@ public class Main {
 		
 		System.out.println("El vehiculo introducido es " + vehiculo.toString());
 		
-		
+		System.out.println("Hola");
 		//Voy a crear un coche subclase (hijo)
 		//Coche coche = new Coche();
 		//Con poliformismo
